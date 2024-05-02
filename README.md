@@ -1,11 +1,9 @@
 # Luis David Rojas Díaz
-ldavidrd@gmail.com
-----------------------------------------------------
 
 - **Nacionalidad:** 🟡🔵🔴 Colombiano
-- **Carrera Profesional:** Ingeniero Industrial
-- **Carrera Técnica:** Técnico Profesional en Química Industrial
-- **Carrera TI:** Data Scientist
+- **Carrera Profesional:** 👨🏽‍🏭 Ingeniero Industrial
+- **Carrera Técnica:** 👨🏽‍🔬 Técnico Profesional en Química Industrial
+- **Carrera TI:** 👩🏽‍💻 Data Scientist
 
 ## Especialización
 
@@ -17,11 +15,11 @@ Me especializo en funciones relacionadas con:
 - ⚙️ Optimización de procesos
 - 📈 Análisis de la información
 
-Mas allá del rol que desempeñe, mi verdadero valor radica en mi habilidad para analizar datos y encontrar información clave para la toma de decisiones.
+❤️‍🔥 Mas allá del rol que desempeñe, mi verdadero valor radica en mi habilidad para analizar datos y encontrar información clave para la toma de decisiones.
 
 ## Experiencia
 
-A través de mi experiencia, he desarrollado la capacidad de conectar los requerimientos de diversas áreas con proyectos de tecnología de la información (IT), asegurando que las soluciones implementadas sean efectivas y alineadas con los objetivos del negocio.
+⚙️ A través de mi experiencia, he desarrollado la capacidad de conectar los requerimientos de diversas áreas con proyectos de tecnología de la información (IT), asegurando que las soluciones implementadas sean efectivas y alineadas con los objetivos del negocio.
 
 ## Habilidades
 
@@ -29,5 +27,9 @@ Además, estoy comprometido en expandir mis habilidades en ciencia de datos, uti
 
 ## Objetivo
 
-Mi objetivo es mantenerme al tanto de las últimas tendencias y tecnologías en este campo para ofrecer siempre las soluciones más innovadoras y efectivas.
+🎯 Mi objetivo es mantenerme al tanto de las últimas tendencias y tecnologías en este campo para ofrecer siempre las soluciones más innovadoras y efectivas.
+
+## Contacto
+
+📧 ldavidrd@gmail.com
 
