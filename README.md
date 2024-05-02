@@ -1,5 +1,6 @@
 # Luis David Rojas Díaz
-ldavidrdgmail.com
+ldavidrd@gmail.com
+----------------------------------------------------
 
 - **Nacionalidad:** 🟡🔵🔴 Colombiano
 - **Carrera Profesional:** Ingeniero Industrial
