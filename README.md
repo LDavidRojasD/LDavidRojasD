@@ -35,7 +35,7 @@ Además, estoy comprometido en expandir mis habilidades en ciencia de datos, uti
 - **Autoaprendizaje:** Resultado del conocimiento específico necesario en varios campos de la industria y del desarrollo de proyectos en los que se aprendió mediante la práctica.
 - **Autogestión:** Adquirido en el trabajo remoto, fortaleciendo la iniciativa en función de los objetivos.
 - **Análisis:** Desarrollado a lo largo de mi vida laboral como analista químico, como jefe de calidad y como analista de la información.
-- **Versatilidad:** Producto de las idferentes áreas técnicas y profesionales en las que he desarrollado mi vida laboral.
+- **Versatilidad:** Producto de las diferentes áreas técnicas y profesionales en las que he desarrollado mi vida laboral.
 
 ## Proyectos
 
