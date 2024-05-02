@@ -5,6 +5,11 @@
 - **Carrera Técnica:**         👨🏽‍🔬 Técnico Profesional en Química Industrial
 - **Carrera TI:**              👩🏽‍💻 Data Scientist
 
+## Contacto
+
+📧 ldavidrd@gmail.com
+💼 https://www.linkedin.com/in/ldrojasd/
+
 ## Resumen Perfil Profesional
 
 Me especializo en funciones relacionadas con:
@@ -51,8 +56,4 @@ Estoy comprometido en expandir mis habilidades en ciencia de datos, utilizando h
 ## Objetivo
 
 🎯 Mi objetivo es mantenerme al tanto de las últimas tendencias y tecnologías en este campo de la ciencia de datos para ofrecer siempre las soluciones más innovadoras y efectivas.
-
-## Contacto
-
-📧 ldavidrd@gmail.com
 
