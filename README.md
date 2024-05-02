@@ -15,23 +15,31 @@ Me especializo en funciones relacionadas con:
 - ⚙️ Optimización de procesos
 - 📈 Análisis de la información
 
-![ValueAddedCheckGIF](https://github.com/LDavidRojasD/LDavidRojasD/assets/136623954/5352863c-8231-4c18-b0ce-b8a3557af8f6) Mas allá del rol que desempeñe, mi verdadero valor radica en mi habilidad para analizar datos y encontrar información clave para la toma de decisiones.
+Mas allá del rol que desempeñe, mi verdadero valor radica en mi habilidad para analizar datos y encontrar información clave para la toma de decisiones.
 
-🗓️ A través de mi experiencia, he desarrollado la capacidad de conectar los requerimientos de diversas áreas con proyectos de tecnología de la información (IT), asegurando que las soluciones implementadas sean efectivas y alineadas con los objetivos del negocio.
+⌛ A través de mi experiencia, he desarrollado la capacidad de conectar los requerimientos de diversas áreas con proyectos de tecnología de la información (IT), asegurando que las soluciones implementadas sean efectivas y alineadas con los objetivos del negocio.
 
-## Habilidades Técnicas:
+## Habilidades Técnicas
 
 Control y aseguramiento de Calidad | Optimización y programación lineal | Data Analytics | Python | MySQL | Tableau | Power BI |
 
-Además, estoy comprometido en expandir mis habilidades en ciencia de datos, utilizando herramientas como Google Cloud Platform, Streamlit y Modelos de Machine Learning, entre otras. Este enfoque me permite no solo analizar datos de manera efectiva, sino también implementar soluciones avanzadas y automatizadas que generen un impacto significativo en el negocio.
+Además, estoy comprometido en expandir mis habilidades en ciencia de datos, utilizando herramientas como Google Cloud Platform, Streamlit, Modelos de Machine Learning, entre otras. Este enfoque me permite no solo analizar datos de manera efectiva, sino también implementar soluciones avanzadas y automatizadas que generen un impacto significativo en el negocio.
 
-## Habilidades Blandas:
+## Habilidades Blandas
 
-Liderazgo: 
+- Liderazgo: Forjado a partir de la responsabilidad del personal técnico y profesional a mi cargo.
+- Autoaprendizaje: Resultado del conocimiento específico necesario en varios campos de la industria y del desarrollo de proyectos en los que se aprendió mediante la práctica.
+- Autogestión: Adquirido en el trabajo remoto, fortaleciendo la iniciativa en función de los objetivos.
+- Análisis: Desarrollado a lo largo de mi vida laboral como analista químico, como jefe de calidad y como analista de la información.
+- Versatilidad: Producto de las idferentes áreas técnicas y profesionales en las que he desarrollado mi vida laboral.
+
+## Proyectos
+
+
 
 ## Objetivo
 
-🎯 Mi objetivo es mantenerme al tanto de las últimas tendencias y tecnologías en este campo para ofrecer siempre las soluciones más innovadoras y efectivas.
+🎯 Mi objetivo es mantenerme al tanto de las últimas tendencias y tecnologías en este campo de la ciencia de datos para ofrecer siempre las soluciones más innovadoras y efectivas.
 
 ## Contacto
 
