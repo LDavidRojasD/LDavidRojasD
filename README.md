@@ -21,13 +21,13 @@ Independientemente del rol que ocupe, considero que mi mayor fortaleza radica en
 
 ## Habilidades Técnicas
 
-| Campo                          | Herramientas/Tecnologías               |
-|--------------------------------------------------|----------------------------------------|
-| Data Analytics                                   | Python, MySQL, Tableau, Power BI      |
-| Ingeniería Industrial               | Programación Lineal, Gestión de Inventarios, Gestión logística|
-| Control y Aseguramiento de Calidad        | Normas ISO 9001 y 17025, Control estadístico de la calidad|
+| Campo                               | Herramientas/Tecnologías                                             |
+|-------------------------------------|----------------------------------------------------------------------|
+| Ciencia de Datos                    | Python, MySQL, Tableau, Power BI, Machine Learning, Web scraping, GCP|
+| Ingeniería Industrial               | Programación Lineal, Gestión de Inventarios, Gestión logística       |
+| Control y Aseguramiento de Calidad  | Normas ISO 9001 y 17025, Control estadístico de la calidad           |
 
-Además, estoy comprometido en expandir mis habilidades en ciencia de datos, utilizando herramientas como Google Cloud Platform, Streamlit, Modelos de Machine Learning, entre otras. Este enfoque me permite no solo analizar datos de manera efectiva, sino también implementar soluciones avanzadas y automatizadas que generen un impacto significativo en el negocio.
+Estoy comprometido en expandir mis habilidades en ciencia de datos, utilizando herramientas de automatización y BigData. Este enfoque me permite no solo analizar datos de manera efectiva, sino también implementar soluciones avanzadas y automatizadas que generen un impacto significativo en el negocio.
 
 ## Habilidades Blandas
 
@@ -39,8 +39,8 @@ Además, estoy comprometido en expandir mis habilidades en ciencia de datos, uti
 
 ## Proyectos
 
-| Proyecto                          |Descripción               |
-|--------------------------------------------------|----------------------------------------|
+| Nombre                          |Descripción               |
+|---------------------------------|--------------------------|
 | [Análisis de videojuegos ](https://github.com/LDavidRojasD/Video-game-analytics) |  Proyecto Educativo Henry: En nuestro rol de Analistas de Datos; un grupo empresarial dispuesto a invertir en el desarrollo de nuevos productos nos pide analizar el mercado de videojuegos con el objetivo de identificar posibles nichos en donde se puedan desarrollar nuevos productos. Así que, nuestro objetivo será el encontrar los insights (información valiosa, patrones o conocimientos significativos a partir de los datos analizados) y presentarlos en un tablero interactivo. |
 |[Machine Learning en investigación de mercado automotor](https://github.com/LDavidRojasD/machine-learning-mercado-automotriz) | Proyecto de estudio de mercado de automóviles, en nuestro rol de ingenieros de ML debemos proveer al cliente de dos modelos predictivos; uno que clasifique a partir de diferentes dimensiones (Cilindraje, Tipo de Combustible, Peso del motor, Consumo, etc) la gama del vehículo entre costoso o económico y otro modelo que permita predecir el precio del vehículo a partir de sus características.|
 |[MLOps_SteamGames_Proy1](https://github.com/LDavidRojasD/MLOps_SteamGames_Proy1)|El Proyecto Individual No. 1 está centrado en Machine Learning Operations (MLOps) , el cual ha sido concebido con el propósito de analizar y poner en funcionamiento un sistema de recomendación de videojuegos basado en datos de la plataforma Steam. En calidad de Data Scientist, se recibieron tres conjuntos de datos esenciales para la construcción del modelo, los cuales contenían información sobre los videojuegos en Steam, tiempo de juego de los usuarios por cada videojuego, y las recomendaciones específicas realizadas por los usuarios para cada juego. . Sobre la información recibida también se pide generar 5 funciones (endpoints) para ser consumidas por una aplicación (FastApi) e implementada a través de Render.|
