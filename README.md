@@ -1,9 +1,12 @@
 # Luis David Rojas Díaz
 
-- **Nacionalidad:**            🟡🔵🔴 Colombiano
-- **Carrera Profesional:**     👨🏽‍🏭 Ingeniero Industrial
-- **Carrera Técnica:**         👨🏽‍🔬 Técnico Profesional en Química Industrial
-- **Carrera TI:**              👩🏽‍💻 Data Scientist
+| Aspecto                | Detalle                                    |
+|------------------------|--------------------------------------------|
+| **Nacionalidad:**      | 🟡🔵🔴 Colombiano                          |
+| **Carrera Profesional:**| 👨🏽‍🏭 Ingeniero Industrial                |
+| **Carrera Técnica:**   | 👨🏽‍🔬 Técnico Profesional en Química Industrial |
+| **Carrera TI:**        | 👩🏽‍💻 Data Scientist                      |
+
 
 ## Perfil Profesional
 
