@@ -7,8 +7,8 @@
 
 ## Contacto
 
-📧 ldavidrd@gmail.com
-💼 https://www.linkedin.com/in/ldrojasd/
+- 📧 ldavidrd@gmail.com
+- 💼 https://www.linkedin.com/in/ldrojasd/
 
 ## Resumen Perfil Profesional
 
