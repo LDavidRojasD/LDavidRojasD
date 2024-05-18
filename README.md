@@ -31,6 +31,7 @@ Independientemente del rol que ocupe, considero que mi mayor fortaleza radica en
 | Ciencia de Datos                    | Python, MySQL, Tableau, Power BI, Machine Learning, Web scraping, GCP|
 | Ingeniería Industrial               | Programación Lineal, Gestión de Inventarios, Gestión logística       |
 | Control y Aseguramiento de Calidad  | Normas ISO 9001 y 17025, Control estadístico de la calidad           |
+| Química Industrial                  | Análisis volumétrico, Análisis gravimétrico, Petrografía y Reología de Carbones, Reactividad de Coques |
 
 Estoy comprometido en expandir mis habilidades en ciencia de datos, utilizando herramientas de automatización y BigData. Este enfoque me permite no solo analizar datos de manera efectiva, sino también implementar soluciones avanzadas y automatizadas que generen un impacto significativo en el negocio.
 
