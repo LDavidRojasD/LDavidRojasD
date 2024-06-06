@@ -1,9 +1,9 @@
 # Luis David Rojas Díaz
 
 - **Nacionalidad:**            🟡🔵🔴 Colombiano
+- **Carrera TI:**              👩🏽‍💻 Data Scientist
 - **Carrera Profesional:**     👨🏽‍🏭 Ingeniero Industrial
 - **Carrera Técnica:**         👨🏽‍🔬 Técnico Profesional en Química Industrial
-- **Carrera TI:**              👩🏽‍💻 Data Scientist
 
 ## Contacto
 
@@ -14,11 +14,11 @@
 
 Me especializo en funciones relacionadas con:
 
+- 📈 Análisis de la información
+- 🚚 Logística
 - ✅️ Control y aseguramiento de calidad
 - 📦 Gestión de inventarios
-- 🚚 Logística
 - ⚙️ Optimización de procesos
-- 📈 Análisis de la información
 
 Independientemente del rol que ocupe, considero que mi mayor fortaleza radica en mi capacidad para analizar datos y extraer información crucial que facilite la toma de decisiones.
 
